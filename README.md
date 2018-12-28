@@ -2,7 +2,7 @@
 Android BLE Library for Jumper Oximeter
 ===================================
 
-This is simple app to show how to work with library from library branch. This library allows to connect to specific address, subscribe to specific service, characteristic of Oximeter and receive oxigenation, pi index and pulse. 
+This is simple app to show how to work with library from library branch (imported aar file). This library allows to connect to specific address, subscribe to specific service, characteristic of Oximeter and receive oxigenation, pi index and pulse. 
 
 Pre-requisites
 --------------
